@@ -1,3 +1,0 @@
-/home/lyu/code/PathGenerator/CMakeFiles/rebuild_cache.dir
-/home/lyu/code/PathGenerator/CMakeFiles/main.dir
-/home/lyu/code/PathGenerator/CMakeFiles/edit_cache.dir
