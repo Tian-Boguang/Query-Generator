@@ -1,3 +1,0 @@
-/home/lyu/effect-overall/GraphIndex/CMakeFiles/rebuild_cache.dir
-/home/lyu/effect-overall/GraphIndex/CMakeFiles/main.dir
-/home/lyu/effect-overall/GraphIndex/CMakeFiles/edit_cache.dir

@@ -1,3 +1,0 @@
-/home/lyu/effect-overall/QueryGenerator/CMakeFiles/rebuild_cache.dir
-/home/lyu/effect-overall/QueryGenerator/CMakeFiles/main.dir
-/home/lyu/effect-overall/QueryGenerator/CMakeFiles/edit_cache.dir

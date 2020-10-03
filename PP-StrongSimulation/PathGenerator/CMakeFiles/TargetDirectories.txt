@@ -1,3 +1,0 @@
-/home/lyu/effect-overall/PathGenerator/CMakeFiles/rebuild_cache.dir
-/home/lyu/effect-overall/PathGenerator/CMakeFiles/main.dir
-/home/lyu/effect-overall/PathGenerator/CMakeFiles/edit_cache.dir
